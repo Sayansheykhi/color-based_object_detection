@@ -10,9 +10,8 @@ Detect and localize colorful objects in images using unique color representation
 
 ### Sample Results
 
-<img width="300" alt="sample-input" src="https://github.com/user-attachments/assets/dd656952-85cf-42c0-ba09-c96c97cbab86" />
-//
-<img width="300" alt="sample-output" src="https://github.com/user-attachments/assets/15e39579-8a5b-4add-ba4d-bc17911a736b" />
+!<img width="300" alt="sample-input" src="https://github.com/user-attachments/assets/dd656952-85cf-42c0-ba09-c96c97cbab86" />
+!<img width="300" alt="sample-output" src="https://github.com/user-attachments/assets/15e39579-8a5b-4add-ba4d-bc17911a736b" />
 
 ## Dataset
 * Object Library: A set of images showcasing distinct color objects against a consistent green background.
