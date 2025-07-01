@@ -10,7 +10,7 @@ Detect and localize colorful objects in images using unique color representation
 
 ### Sample Results
 
-<img width="589" alt="sample-input" src="https://github.com/user-attachments/assets/dd656952-85cf-42c0-ba09-c96c97cbab86" />
+<img width="300" alt="sample-input" src="https://github.com/user-attachments/assets/dd656952-85cf-42c0-ba09-c96c97cbab86" />
 <img src="img-for-readme/sample-output.png" alt="sample-input" width="300">
 
 ## Dataset
